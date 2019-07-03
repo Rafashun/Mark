@@ -28,3 +28,9 @@ Mah roda a roduamm. Qual é a musicamm? Ma o Silvio Santos Ipsum é muitoam inte
 ```
 Quando não quero Identificar a linguagem com a qual estou trabalhando.
 ```
+
+```javascript
+
+var s = "Atribuindo valores a uma variavel"
+alert(s);
+```
