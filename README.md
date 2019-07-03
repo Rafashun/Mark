@@ -31,6 +31,6 @@ Quando não quero Identificar a linguagem com a qual estou trabalhando.
 
 ```javascript
 
-var s = "Atribuindo valores a uma variavel"
+var s = "Atribuindo valores a uma variavel";
 alert(s);
 ```
