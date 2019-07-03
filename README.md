@@ -9,5 +9,5 @@ Mah roda a roduamm. Qual é a musicamm? Ma o Silvio Santos Ipsum é muitoam inte
 
 ## Trablhando com Links
 
-[Google](http://www.google.com.br "Clique aqui e acesse agora o conteudo") [Silvio Santos Ipsum](http://silviosantosipsum.com "Site do Sivio Oi!!")
+[Google](http://www.google.com.br "Clique aqui e acesse agora o conteudo") | [Silvio Santos Ipsum](http://silviosantosipsum.com "Site do Sivio Oi!!")
 
