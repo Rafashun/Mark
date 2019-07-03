@@ -11,3 +11,9 @@ Mah roda a roduamm. Qual é a musicamm? Ma o Silvio Santos Ipsum é muitoam inte
 
 [Google](http://www.google.com.br "Clique aqui e acesse agora o conteudo") | [Silvio Santos Ipsum](http://silviosantosipsum.com "Site do Sivio Oi!!") | [Senac](https://www.sp.senac.br/jsp/default.jsp?newsID=0 "Acesse o site do Senac")
 
+## Trabalhando com Listas Ordenadas
+1. Item 01
+2. Item 02
+3. Item 03
+
+
