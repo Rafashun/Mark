@@ -34,3 +34,13 @@ Quando não quero Identificar a linguagem com a qual estou trabalhando.
 var s = "Atribuindo valores a uma variavel";
 alert(s);
 ```
+
+## Trabalhando com tabelas
+
+Unidade Curricular|Nomes
+------------------|-----
+UC 09             |Lógica de Programação
+UC 10             |Linguagem C#
+UC 11			  |Dev Web
+UC 12             |PHP
+UC 13			  |Android
